@@ -1,0 +1,34 @@
+Link para download do git
+https://git-scm.com/downloads
+
+# introduçao a metodologia scrum
+
+em teoria, o software deveria facilitar os objetivos das empresas
+no metodo tradicional nao acontece essa facilitaçao 
+em 80% das vezes, o que é utilizado é 20% do software em si
+portanto ha um desperdicio de codigo 
+
+no metodo tradicional, o software é feito de maneira cascata
+sempre um passo é sequencia do outro 
+os passos sao: 
+requesitos - design - implementaçao - verificaçao - operaçao
+
+a metodologia agil é muito mais iterativa do que sequenciada
+caracteristicas da metodologia agil:
+	rapidez a mudança
+	fazer coisas complexas de maneira simples
+	equipe comprometida com os objetivos 
+	consequencia: maior valor para o cliente
+
+a metodologia SCRUM é uma metodologia agil 
+ela visa muito mais falar do que escrever
+ela mostra o software finalizado para colher feedbacks
+os requisitos iniciais mudam ao longo do tempo
+aprendizado progressivo com o uso do software
+
+Product owner - pessoa da area de negocios
+Scrum Master - disseminador da metodologia scrum aos devs
+Desenvolvedores - quem vai criar de fato o software
+
+
+
